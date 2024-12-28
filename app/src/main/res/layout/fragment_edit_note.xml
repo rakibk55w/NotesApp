@@ -36,7 +36,7 @@
             android:fontFamily="@font/poppins"/>
 
         <EditText
-            android:id="@+id/editNoteDesc"
+            android:id="@+id/editNoteDescription"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:hint="@string/enter_the_description"
